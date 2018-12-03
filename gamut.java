@@ -4,5 +4,6 @@
 4}
 5 system
 6 {
+	systam.oyt prmlkk
 7 }
 
